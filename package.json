@@ -1,0 +1,10 @@
+{
+  "version": "0.0.1",
+  "name": "@rohfle/snowpack-plugin-watchappcss",
+  "main": "plugin.js",
+  "license": "MIT",
+  "homepage": "",
+  "publishConfig": {
+    "access": "public"
+  }
+}
